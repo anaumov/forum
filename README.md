@@ -1,4 +1,10 @@
-anaumov.github.io
-=================
+# Run on localhost
 
-simple forum
+
+```
+npm install
+coffee -cbw .
+node app.js
+```
+
+http://localhost:8080/
